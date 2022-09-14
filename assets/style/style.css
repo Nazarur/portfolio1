@@ -126,8 +126,8 @@ img {
 }
 
 .section2 {
+    max-width: 1480px;
     position: relative;
-    margin-top: 100px;
     background-color: #161513;
     font-size: 18px;
     width: 1466.69px;
@@ -137,7 +137,9 @@ img {
     justify-content: center;
     align-items: center;
     transform: rotate(-4deg);
+    margin: auto;
     margin-left: -10px;
+    margin-top: 100px;
 }
 
 .section2 img {
